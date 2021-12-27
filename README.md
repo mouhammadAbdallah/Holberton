@@ -1,15 +1,18 @@
 # Holberton
 
-These are all my repositories with Holberton Academy:
+These are all my project repositories done during my Holberton Academy journey:
 
-### holbertonschool-tools:
+### virtualization tools and linux shell projects:
 https://github.com/mouhammadAbdallah/holbertonschool-tools
 
-### holbertonschool-c:
+### C language projects:
 https://github.com/mouhammadAbdallah/holbertonschool-c
 
-### holbertonschool-algorithms:
+### low level programming and algorithm projects:
+https://github.com/mouhammadAbdallah/holbertonschool-low_level_programming
+
+### important Data structures projects:
 https://github.com/mouhammadAbdallah/holbertonschool-algorithms
 
-### holbertonschool-blockchain
+### blockchain and cryptocurrency projects:
 https://github.com/mouhammadAbdallah/holbertonschool-blockchain
